@@ -1,6 +1,6 @@
 const config = require('config');
 
-const Binance = require('binance-api-node').default;
+const Binance = require('us-binance-api-node').default;
 
 const binanceOptions = {};
 
